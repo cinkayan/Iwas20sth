@@ -12,7 +12,25 @@ body {
 	margin: 0 auto;
   width: 200px;
   height: 200px;
-  
+
+}
+
+#title {
+  font-size: 60px;
+  padding:5px;
+  color:#f7b731;
+}
+
+.header img {
+  float: left;
+  width: auto;
+  height: 100px;
+}
+
+.header #title {
+  position: relative;
+  top: 18px;
+  left: 10px;
 }
 
 footer {

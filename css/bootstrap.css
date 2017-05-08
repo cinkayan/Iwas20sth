@@ -188,6 +188,11 @@ th {
   padding: 0;
 }
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
+
+
+
+
+
 @media print {
   *,
   *:before,
@@ -4280,10 +4285,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   line-height: 30px;
 }
 
-.navbar-brand #Title {
-  font-size: 72px;
-  padding:5px
-}
+
 .navbar-brand:hover,
 .navbar-brand:focus {
   text-decoration: none;

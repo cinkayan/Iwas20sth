@@ -231,7 +231,7 @@ function centerContent()
         player = new YT.Player('player', {
           height: '100%',
           width: '100%',
-          playerVars: { 'rel':0 , 'autoplay': 1, 'loop':1, 'controls':0, 'start':34, 'autohide':1,'wmode':'opaque','hd':1 },
+          playerVars: { 'rel':0 , 'autoplay': 1, 'loop':1, 'controls':0, 'start':00, 'autohide':1,'wmode':'opaque','hd':1 },
           videoId: 'JiV3kF528t8',
           events: {
             'onReady': onPlayerReady,
